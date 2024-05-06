@@ -121,7 +121,7 @@ while True:
         else:
             print("--Invalid Input--")
     except:
-        print("invalid character  ----")
+        print("invalid character")
 
 if __name__=='__main__':
     main()
